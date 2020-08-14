@@ -1,3 +1,6 @@
+"""Ejercicio 9:
+Crear un programa que pregunte al usuario 5 números enteros y devuelva una lista con ellos."""
+
 lista_numeros = []
 
 numero1 = int(input('1er número: '))
